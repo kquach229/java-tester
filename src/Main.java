@@ -6,6 +6,7 @@ public class Main {
         String result = name.replace("e", "a");
         System.out.println(result);
         System.out.println("Changes here");
+        System.out.println("Additoanl changes");
         }
     }
 
