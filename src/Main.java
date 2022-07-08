@@ -5,7 +5,7 @@ public class Main {
         String name = "  Kenny Quach      ";
         String result = name.replace("e", "a");
         System.out.println(result);
-        System.out.println("Changes here");
+
 
         }
     }
